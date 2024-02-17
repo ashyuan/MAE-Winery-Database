@@ -1,6 +1,7 @@
 # Winery App
+Created by Ashley Yuan, Emily Andrews, Miranda Chan
 
-## Project Setup
+## Setup
 
 Clone the repo and run npm i inside the client folder 
 
@@ -18,7 +19,7 @@ Once dependencies are installed and postgres is installed run npm start inside o
 
 Inside of server folder run nodemon to start server.
 
-## Project Description
+## Description
 
 The domain of the application is wine production. We will be storing information related to wine production in a winery.
 
